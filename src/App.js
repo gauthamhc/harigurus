@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>HariGurus</h1>
       <Header />
+      <Header />
     </div>
   );
 }
